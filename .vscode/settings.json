@@ -1,0 +1,5 @@
+{
+	"cmake.sourceDirectory": "${workspaceFolder}/windows",
+	"editor.wordWrap": "on",
+	"editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace"
+}
