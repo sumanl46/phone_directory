@@ -1,5 +1,7 @@
 {
 	"cmake.sourceDirectory": "${workspaceFolder}/windows",
 	"editor.wordWrap": "on",
-	"editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace"
+	"editor.fontSize": 14,
+	"editor.fontFamily": "'Fira Code', 'JetBrains Mono', Consolas, 'Courier New', monospace",
+	"dart.openDevTools": "never"
 }
